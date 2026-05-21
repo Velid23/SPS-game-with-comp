@@ -1,1 +1,2 @@
 # SPS-game-with-comp
+A console-based implementation of the classic Stone, Paper, Scissors game built in C++, engineered to demonstrate the transition from basic conditional coding to advanced Clean Code Architecture. It uniquely preserves my independent initial implementation alongside the instructor's refactored version, serving as a comparative case study where I evaluated both approaches to master optimal state management, reduce switch-case redundancy, and establish self-review skills
